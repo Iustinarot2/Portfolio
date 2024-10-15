@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Computer Science Student",
+      "organisation": "University of Reading",
+      "startDate": "Sept, 2020",
+      "endDate": "July, 2023",
+      "experiences": ["Developed projects in C++, Python, Java and Machine Learning", "Worked in a team to build an interactive VR world", "Completed modules in Blockchain, Networking, and Software Engineering"],
+      "imageSrc": "history/reading.png"
+    },
+    {
+      "role": "Freelance Software Developer",
+      "organisation": "St Columb Road",
+      "startDate": "Aug, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Utilised Svelte, JavaScript, HTML, CSS, and Git", " Collaborated to make improvements to the company website"],
+      "imageSrc": "history/columb.png"
+    }
+  ]

@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Leukaemia Classification Algorithm",
+      "imageSrc": "projects/machineLearning.png",
+      "description": "Developed a machine learning algorithm for leukaemia classification, focusing on data preprocessing and model evaluation.",
+      "skills": ["Python", "Pandas", "Jupyter Notebook"],
+      "source": "https://github.com/Iustinarot2/Leukaemia-Classification"
+    },
+    {
+      "title": "Froggy Go Home",
+      "imageSrc": "projects/froggy.png",
+      "description": "Created an android game similar to Flappy Bird, implementing game physics and collision detection.",
+      "skills": ["Java", "OOP", "Android Studio"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

@@ -1,0 +1,23 @@
+@import "../../vars.css";
+
+.scrollBtn {
+    position: fixed;
+    bottom: 45px;
+    right: 30px;
+    background-color: var(--color-primary);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s;
+  }
+
+  .scrollBtn:hover {
+    background-color: #2e437d;
+  }
